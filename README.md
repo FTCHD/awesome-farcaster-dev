@@ -64,3 +64,7 @@ Submit your project only if it's open sauce.
 
 
 
+## Other Awesome Lists
+- [awesome-frames](https://github.com/davidfurlong/awesome-frames)
+- [awesome-farcaster](https://github.com/a16z/awesome-farcaster)
+
