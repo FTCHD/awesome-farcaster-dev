@@ -5,6 +5,7 @@ A sufficiently decentralized list about open source Farcaster & Frames projects,
 Submit your project only if it's open sauce.
 
 # Frames
+- [`simplest Farcaster Frame V2`](https://github.com/dtechvision/simplest-farcaster-frame)
 - [`farcaster-examples`](https://github.com/neynarxyz/farcaster-examples): A collection of Farcaster mini-apps powered by Neynar ![GitHub Repo stars](https://img.shields.io/github/stars/neynarxyz/farcaster-examples)
 - [`simplest-frame`](https://github.com/depatchedmode/simplest-frame): The simplest Farcaster Frame possible ![GitHub Repo stars](https://img.shields.io/github/stars/depatchedmode/simplest-frame)
 - [`a-frame-in-100-lines`](https://github.com/Zizzamia/a-frame-in-100-lines): Farcaster Frames in less than 100 lines, and ready to be deployed to Vercel. ![GitHub Repo stars](https://img.shields.io/github/stars/Zizzamia/a-frame-in-100-lines)
@@ -66,6 +67,8 @@ Submit your project only if it's open sauce.
 - [`hatecast`](https://github.com/mattwelter/hatecast): Farcaster app for checking who unfollowed you. ![GitHub Repo stars](https://img.shields.io/github/stars/mattwelter/hatecast)
 - [`farcaster-scraper`](https://github.com/leo5imon/farcaster-scraper): Script for Farcaster scraping, using Neynar API. ![GitHub Repo stars](https://img.shields.io/github/stars/leo5imon/farcaster-scraper)
 - [`clear wallet`]([https://github.com/andrei0x309/clear-wallet/): FOSS browser Wallet that allows to login on warpcast.com and do SIWF on desktop using custody PK of any farcaster account. ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/clear-wallet/)
+- [`Farcaster Helm Charts`](https://github.com/dtechvision/onchain-helmcharts)
+- [`Farcaster Documentation`](https://dtech.vision/farcaster)
 
 
 
