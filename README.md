@@ -30,6 +30,7 @@ Submit your project only if it's open sauce.
 - [`litecast`](https://github.com/dylsteck/litecast): A beautiful yet simple Farcaster client ![GitHub Repo stars](https://img.shields.io/github/stars/dylsteck/litecast)
 - [`herocast`](https://github.com/hero-org/herocast): herocast is Farcaster’s leading open-source client. Our goal is to decentralize power on the internet, faster. ![GitHub Repo stars](https://img.shields.io/github/stars/hero-org/herocast)
 - [`sonata`](https://github.com/Coop-Records/sonata): music client on farcaster ![GitHub Repo stars](https://img.shields.io/github/stars/Coop-Records/sonata)
+- [`yup live`](https://github.com/andrei0x309/yup-live): Open source implementation of a multi client for web/desktop/mobile that's using multiple social platforms: Farcaster, lens, X, and bluesky ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/yup-live)
 
 # Frames SDKs
 - [`pinata-fdk`](https://github.com/PinataCloud/pinata-fdk): Farcaster Development Kit. ![GitHub Repo stars](https://img.shields.io/github/stars/PinataCloud/pinata-fdk)
@@ -47,6 +48,8 @@ Submit your project only if it's open sauce.
 - [`farcasterkit`](https://github.com/dylsteck/farcasterkit): React hooks for the best farcaster apps. ![GitHub Repo stars](https://img.shields.io/github/stars/dylsteck/farcasterkit)
 - [`react-farcaster-embed`](https://github.com/pugson/react-farcaster-embed): Display an embedded cast from Farcaster in your React app. Works with Next.js SSR.  ![GitHub Repo stars](https://img.shields.io/github/stars/pugson/react-farcaster-embed)
 - [`farcaster-solidity`](https://github.com/pavlovdog/farcaster-solidity): A collection of Solidity libraries for interacting with the Farcaster messages on-chain. ![GitHub Repo stars](https://img.shields.io/github/stars/pavlovdog/farcaster-solidity)
+- [`farcaster-hub-utils`](https://github.com/andrei0x309/farcaster-hub-utils): TS lib abstraction to intercat with a hub using signer keys. ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/farcaster-hub-utils)
+
 
 # Farcaster Hub
 - [`hub-monorepo`](https://github.com/farcasterxyz/hub-monorepo): Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster. ![GitHub Repo stars](https://img.shields.io/github/stars/farcasterxyz/hub-monorepo)
@@ -62,6 +65,8 @@ Submit your project only if it's open sauce.
 - [`farcaster-user-stat`](https://github.com/mattwelter/farcaster-user-stat): Farcaster app for checking your profile statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/mattwelter/farcaster-user-stat)
 - [`hatecast`](https://github.com/mattwelter/hatecast): Farcaster app for checking who unfollowed you. ![GitHub Repo stars](https://img.shields.io/github/stars/mattwelter/hatecast)
 - [`farcaster-scraper`](https://github.com/leo5imon/farcaster-scraper): Script for Farcaster scraping, using Neynar API. ![GitHub Repo stars](https://img.shields.io/github/stars/leo5imon/farcaster-scraper)
+- [`clear wallet`]([https://github.com/andrei0x309/clear-wallet/): FOSS browser Wallet that allows to login on warpcast.com and do SIWF on desktop using custody PK of any farcaster account. ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/clear-wallet/)
+
 
 
 
