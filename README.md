@@ -25,6 +25,9 @@ Submit your project only if it's open sauce.
 - [`On-Chain-Cow-Farcaster-Frame`](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame): Inspired by Cow Clicker, but on-chain. Available as a Farcaster Frame! ![GitHub Repo stars](https://img.shields.io/github/stars/WillPapper/On-Chain-Cow-Farcaster-Frame)
 - [`yoink`](https://github.com/horsefacts/yoink): Yoink! ![GitHub Repo stars](https://img.shields.io/github/stars/horsefacts/yoink)
 
+# Frames V2
+- [`simplest Farcaster Frame V2`](https://github.com/dtechvision/simplest-farcaster-frame): A pure HTML Frame in 40 lines using the Javascript SDK  ![GitHub Repo stars](https://img.shields.io/github/stars/dtechvision/simplest-farcaster-frame)
+
 # Farcaster Clients
 - [`opencast`](https://github.com/stephancill/opencast): A fully open source Twitter flavoured Farcaster client ![GitHub Repo stars](https://img.shields.io/github/stars/stephancill/opencast)
 - [`litecast`](https://github.com/dylsteck/litecast): A beautiful yet simple Farcaster client ![GitHub Repo stars](https://img.shields.io/github/stars/dylsteck/litecast)
@@ -65,7 +68,9 @@ Submit your project only if it's open sauce.
 - [`farcaster-user-stat`](https://github.com/mattwelter/farcaster-user-stat): Farcaster app for checking your profile statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/mattwelter/farcaster-user-stat)
 - [`hatecast`](https://github.com/mattwelter/hatecast): Farcaster app for checking who unfollowed you. ![GitHub Repo stars](https://img.shields.io/github/stars/mattwelter/hatecast)
 - [`farcaster-scraper`](https://github.com/leo5imon/farcaster-scraper): Script for Farcaster scraping, using Neynar API. ![GitHub Repo stars](https://img.shields.io/github/stars/leo5imon/farcaster-scraper)
-- [`clear wallet`]([https://github.com/andrei0x309/clear-wallet/): FOSS browser Wallet that allows to login on warpcast.com and do SIWF on desktop using custody PK of any farcaster account. ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/clear-wallet/)
+- [`clear wallet`](https://github.com/andrei0x309/clear-wallet/): FOSS browser Wallet that allows to login on warpcast.com and do SIWF on desktop using custody PK of any farcaster account. ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/clear-wallet)
+- [`Farcaster Helm Charts`](https://github.com/dtechvision/onchain-helmcharts): ![Github Repo stars](https://img.shields.io/github/stars/dtechvision/onchain-helmcharts) Run Farcaster and onchain Infrastructure in Kubernetes with Helm Charts.
+- [`Farcaster Documentation`](https://dtech.vision/farcaster): Zero to Hero Farcaster Documentation with developer guides explaining how the protocol works and how to develop Farcaster apps.
 
 
 
