@@ -5,7 +5,6 @@ A sufficiently decentralized list about open source Farcaster & Frames projects,
 Submit your project only if it's open sauce.
 
 # Frames
-- [`simplest Farcaster Frame V2`](https://github.com/dtechvision/simplest-farcaster-frame)
 - [`farcaster-examples`](https://github.com/neynarxyz/farcaster-examples): A collection of Farcaster mini-apps powered by Neynar ![GitHub Repo stars](https://img.shields.io/github/stars/neynarxyz/farcaster-examples)
 - [`simplest-frame`](https://github.com/depatchedmode/simplest-frame): The simplest Farcaster Frame possible ![GitHub Repo stars](https://img.shields.io/github/stars/depatchedmode/simplest-frame)
 - [`a-frame-in-100-lines`](https://github.com/Zizzamia/a-frame-in-100-lines): Farcaster Frames in less than 100 lines, and ready to be deployed to Vercel. ![GitHub Repo stars](https://img.shields.io/github/stars/Zizzamia/a-frame-in-100-lines)
@@ -25,6 +24,9 @@ Submit your project only if it's open sauce.
 - [`frame-userinfo`](https://github.com/sagar-a16z/frame-userinfo): A Frame Server that Displays a user's Farcaster stats ![GitHub Repo stars](https://img.shields.io/github/stars/sagar-a16z/frame-userinfo)
 - [`On-Chain-Cow-Farcaster-Frame`](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame): Inspired by Cow Clicker, but on-chain. Available as a Farcaster Frame! ![GitHub Repo stars](https://img.shields.io/github/stars/WillPapper/On-Chain-Cow-Farcaster-Frame)
 - [`yoink`](https://github.com/horsefacts/yoink): Yoink! ![GitHub Repo stars](https://img.shields.io/github/stars/horsefacts/yoink)
+
+# Frames V2
+- [`simplest Farcaster Frame V2`](https://github.com/dtechvision/simplest-farcaster-frame): Samuel's awesome repo ![GitHub Repo stars](https://img.shields.io/github/stars/dtechvision/simplest-farcaster-frame)
 
 # Farcaster Clients
 - [`opencast`](https://github.com/stephancill/opencast): A fully open source Twitter flavoured Farcaster client ![GitHub Repo stars](https://img.shields.io/github/stars/stephancill/opencast)
@@ -66,7 +68,7 @@ Submit your project only if it's open sauce.
 - [`farcaster-user-stat`](https://github.com/mattwelter/farcaster-user-stat): Farcaster app for checking your profile statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/mattwelter/farcaster-user-stat)
 - [`hatecast`](https://github.com/mattwelter/hatecast): Farcaster app for checking who unfollowed you. ![GitHub Repo stars](https://img.shields.io/github/stars/mattwelter/hatecast)
 - [`farcaster-scraper`](https://github.com/leo5imon/farcaster-scraper): Script for Farcaster scraping, using Neynar API. ![GitHub Repo stars](https://img.shields.io/github/stars/leo5imon/farcaster-scraper)
-- [`clear wallet`]([https://github.com/andrei0x309/clear-wallet/): FOSS browser Wallet that allows to login on warpcast.com and do SIWF on desktop using custody PK of any farcaster account. ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/clear-wallet/)
+- [`clear wallet`](https://github.com/andrei0x309/clear-wallet/): FOSS browser Wallet that allows to login on warpcast.com and do SIWF on desktop using custody PK of any farcaster account. ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/clear-wallet)
 - [`Farcaster Helm Charts`](https://github.com/dtechvision/onchain-helmcharts)
 - [`Farcaster Documentation`](https://dtech.vision/farcaster)
 
