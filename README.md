@@ -4,6 +4,8 @@ A sufficiently decentralized list about open source Farcaster & Frames projects,
 
 Submit your project only if it's open sauce.
 
+![](https://i.imgur.com/waxVImv.png)
+
 # Frames
 - [`farcaster-examples`](https://github.com/neynarxyz/farcaster-examples): A collection of Farcaster mini-apps powered by Neynar ![GitHub Repo stars](https://img.shields.io/github/stars/neynarxyz/farcaster-examples)
 - [`simplest-frame`](https://github.com/depatchedmode/simplest-frame): The simplest Farcaster Frame possible ![GitHub Repo stars](https://img.shields.io/github/stars/depatchedmode/simplest-frame)
