@@ -47,6 +47,7 @@ Submit your project only if it's open sauce.
 - [`botcaster`](https://github.com/BigWhaleLabs/botcaster): Farcaster bot framework. ![GitHub Repo stars](https://img.shields.io/github/stars/BigWhaleLabs/botcaster)
 - [`farcaster-py`](https://github.com/a16z/farcaster-py): A Python SDK for the Farcaster network. ![GitHub Repo stars](https://img.shields.io/github/stars/a16z/farcaster-py)
 - [`farcaster-js`](https://github.com/standard-crypto/farcaster-js): A collection of tools for interacting with the Farcaster social network. ![GitHub Repo stars](https://img.shields.io/github/stars/standard-crypto/farcaster-js)
+- [`farcaster-agent-onboarding`](https://github.com/gadaffihub/farcaster-agent-onboarding): Programmatically create a Farcaster account for an AI agent (Neynar managed flow) + the undocumented gotchas. ![GitHub Repo stars](https://img.shields.io/github/stars/gadaffihub/farcaster-agent-onboarding)
 
 # Farcaster Libraries
 - [`auth-monorepo`](https://github.com/farcasterxyz/auth-monorepo): Farcaster Auth monorepo. ![GitHub Repo stars](https://img.shields.io/github/stars/farcasterxyz/auth-monorepo)
