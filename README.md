@@ -36,6 +36,7 @@ Submit your project only if it's open sauce.
 - [`herocast`](https://github.com/hero-org/herocast): herocast is Farcaster’s leading open-source client. Our goal is to decentralize power on the internet, faster. ![GitHub Repo stars](https://img.shields.io/github/stars/hero-org/herocast)
 - [`sonata`](https://github.com/Coop-Records/sonata): music client on farcaster ![GitHub Repo stars](https://img.shields.io/github/stars/Coop-Records/sonata)
 - [`yup live`](https://github.com/andrei0x309/yup-live): Open source implementation of a multi client for web/desktop/mobile that's using multiple social platforms: Farcaster, lens, X, and bluesky ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/yup-live)
+- [`kiwi news`](https://github.com/attestate/kiwistand): Open-source crypto link aggregator with a Farcaster mini app ![GitHub Repo stars](https://img.shields.io/github/stars/attestate/kiwistand)
 
 # Frames SDKs
 - [`pinata-fdk`](https://github.com/PinataCloud/pinata-fdk): Farcaster Development Kit. ![GitHub Repo stars](https://img.shields.io/github/stars/PinataCloud/pinata-fdk)
