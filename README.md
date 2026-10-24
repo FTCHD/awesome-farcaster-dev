@@ -61,6 +61,7 @@ Submit your project only if it's open sauce.
 - [`teleport`](https://github.com/OpenFarcaster/teleport): A fast implementation of a Farcaster Hub, in Rust.  ![GitHub Repo stars](https://img.shields.io/github/stars/OpenFarcaster/teleport)
 
 # Farcaster Tools
+- [`farcaster-in-three`](https://github.com/P-U-C/farcaster-in-three): Three-command, self-hosted Snapchain read node and browser client. ![GitHub Repo stars](https://img.shields.io/github/stars/P-U-C/farcaster-in-three)
 - [`farcaster-indexer`](https://github.com/gskril/farcaster-indexer): Save all data from the Farcaster protocol to Postgres. ![GitHub Repo stars](https://img.shields.io/github/stars/gskril/farcaster-indexer)
 - [`farcaster-auth-tokens`](https://github.com/davidfurlong/farcaster-auth-tokens): Some local scripts to make it easier to work with warpcast.com api auth tokens. ![GitHub Repo stars](https://img.shields.io/github/stars/davidfurlong/farcaster-auth-tokens)
 - [`farcaster-hub-feeds`](https://github.com/gskril/farcaster-hub-feeds): Easily generate RSS, Atom, and JSON feeds directly from a Farcaster Hub. ![GitHub Repo stars](https://img.shields.io/github/stars/gskril/farcaster-hub-feeds)
@@ -82,4 +83,3 @@ Submit your project only if it's open sauce.
 ## Other Awesome Lists
 - [awesome-frames](https://github.com/davidfurlong/awesome-frames)
 - [awesome-farcaster](https://github.com/a16z/awesome-farcaster)
-
