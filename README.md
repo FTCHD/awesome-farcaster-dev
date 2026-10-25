@@ -29,6 +29,7 @@ Submit your project only if it's open sauce.
 
 # Frames V2
 - [`simplest Farcaster Frame V2`](https://github.com/dtechvision/simplest-farcaster-frame): A pure HTML Frame in 40 lines using the Javascript SDK  ![GitHub Repo stars](https://img.shields.io/github/stars/dtechvision/simplest-farcaster-frame)
+- [`Anansi Arcade`](https://anansidata-miniapp.vercel.app): Free Farcaster Mini App arcade (`Star Blaster`, `Bug Hunt`, `Quiz`) with deterministic server-side replay verification and live daily/weekly high-score leaderboards ([proof repo](https://github.com/kburrus64-max/anansi-prize-proof)) ![GitHub Repo stars](https://img.shields.io/github/stars/kburrus64-max/anansi-prize-proof)
 
 # Farcaster Clients
 - [`opencast`](https://github.com/stephancill/opencast): A fully open source Twitter flavoured Farcaster client ![GitHub Repo stars](https://img.shields.io/github/stars/stephancill/opencast)
