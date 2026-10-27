@@ -37,6 +37,7 @@ Submit your project only if it's open sauce.
 - [`sonata`](https://github.com/Coop-Records/sonata): music client on farcaster ![GitHub Repo stars](https://img.shields.io/github/stars/Coop-Records/sonata)
 - [`yup live`](https://github.com/andrei0x309/yup-live): Open source implementation of a multi client for web/desktop/mobile that's using multiple social platforms: Farcaster, lens, X, and bluesky ![GitHub Repo stars](https://img.shields.io/github/stars/andrei0x309/yup-live)
 - [`kiwi news`](https://github.com/attestate/kiwistand): Open-source crypto link aggregator with a Farcaster mini app ![GitHub Repo stars](https://img.shields.io/github/stars/attestate/kiwistand)
+- [`quilcast`](https://github.com/backmeupplz/quilcast): A tiny open-source Farcaster client that talks straight to Quilibrium's Hypersnap network from the browser, with keys kept in the browser; also an Android app and a Farcaster mini app. ![GitHub Repo stars](https://img.shields.io/github/stars/backmeupplz/quilcast)
 
 # Frames SDKs
 - [`pinata-fdk`](https://github.com/PinataCloud/pinata-fdk): Farcaster Development Kit. ![GitHub Repo stars](https://img.shields.io/github/stars/PinataCloud/pinata-fdk)
